@@ -34,8 +34,8 @@ Mobile version
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/order-summary-card-z0YHXA1xz0](https://www.frontendmentor.io/solutions/order-summary-card-z0YHXA1xz0)
+- Live Site URL: [https://kennylun123.github.io/fm-order-summary-component/](https://kennylun123.github.io/fm-order-summary-component/)
 
 ## My process
 
